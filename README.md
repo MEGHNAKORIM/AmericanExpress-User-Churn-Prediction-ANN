@@ -33,8 +33,15 @@ This project demonstrates an end-to-end **Artificial Neural Network (ANN)** mode
  [ 206  215]]
 
 ---
+![diagram (1)](https://github.com/user-attachments/assets/eeae84de-f332-45d7-b68a-f1ab7ce3b1c8)
 
+## 📊 3D Visualization
+The `3d_visualization.py` script shows a conceptual 3D pipeline:
+- From raw data → preprocessing → ANN layers → prediction
+- Useful for presentations and project demonstrations
+![image](https://github.com/user-attachments/assets/bf355361-e39c-4124-82af-35b0a7581373)
 
+---
 ## 🧪 How to Run
 
 1. **Clone the repository**
