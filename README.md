@@ -27,8 +27,8 @@ This project demonstrates an end-to-end **Artificial Neural Network (ANN)** mode
 ---
 
 ## 📈 Model Performance
-- **Accuracy:**83.89%
-- **Confusion Matrix:** Displays TP, FP, FN, TN
+- Accuracy: 83.89%
+- Confusion Matrix: Displays TP, FP, FN, TN
 - [[1451  114]
  [ 206  215]]
 
