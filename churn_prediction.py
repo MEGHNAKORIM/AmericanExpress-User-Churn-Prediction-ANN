@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Import dataset
-data_set = pd.read_csv("/content/AmericanExpress-Data-Analysis-for-User-Exit-Prediction.csv")
+data_set = pd.read_csv("AmericanExpress-Data-Analysis-for-User-Exit-Prediction.csv")
 
 # Features and Labels
 X = data_set.iloc[:, :-1]
