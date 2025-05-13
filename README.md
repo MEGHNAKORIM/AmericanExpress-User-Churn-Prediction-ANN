@@ -3,14 +3,6 @@
 ## 🧠 Overview
 This project demonstrates an end-to-end **Artificial Neural Network (ANN)** model to predict whether a customer will exit (churn) based on the **American Express dataset**. It includes complete data preprocessing, model training, evaluation, and a conceptual **3D visualization** of the pipeline.
 
----
-
-## 📂 Project Structure
-├── data/
-│ └── AmericanExpress Data Analysis for User Exit Prediction.csv
-├── churn_prediction_ann.py
-├── README.md
-└── requirements.txt
 
 ---
 
